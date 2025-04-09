@@ -3,7 +3,7 @@ const app = express();
 const port = 3000;
  
 app.get('/', (req, res) => {
-  res.send('CPSY 350 Project: Github Actions CI. SAIT ID:00012346');
+  res.send('CPSY 350 Project: Github Actions CI. SAIT ID:12346');
 });
  
 app.listen(port, () => {
